@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>kaffe</name>
+    </assembly>
+    <members>
+        <member name="M:kaffe.Cortado.MlMælk">
+            <summary>
+            hvor meget mælk skal bruge i cortado
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:kaffe.Cortado.Pris">
+            <summary>
+            Prisen på Cortado
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:kaffe.Kaffe.Rabat">
+            <summary>
+            rabat der gives på kaffen
+            </summary>
+        </member>
+        <member name="M:kaffe.Latte.MlMælk">
+            <summary>
+            Hvor meget mælk skal bruges til Latte
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
