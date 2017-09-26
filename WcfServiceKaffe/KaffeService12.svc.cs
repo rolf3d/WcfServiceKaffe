@@ -54,8 +54,6 @@ namespace WcfServiceKaffe
         {
             var sortkaffe = new SortKaffe();
 
-            var cordat = new Cortado();
-
             return sortkaffe.Styrke();
         }
     }
