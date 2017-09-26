@@ -18,6 +18,8 @@ namespace WcfServiceKaffe
         string GetStyrkeSortKaffe();
 
         [OperationContract]
+        string GetStyrkeCortado();
+        [OperationContract]
         int GetAntalBestillinger();
 
         [OperationContract]

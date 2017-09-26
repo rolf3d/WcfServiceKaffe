@@ -56,5 +56,12 @@ namespace WcfServiceKaffe
 
             return sortkaffe.Styrke();
         }
+
+        public string GetStyrkeCortado()
+        {
+            var cortado = new Cortado();
+            return cortado.Styrke();
+        }
+
     }
 }
