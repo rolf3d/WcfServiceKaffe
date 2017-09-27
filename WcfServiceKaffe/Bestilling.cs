@@ -10,7 +10,7 @@ namespace WcfServiceKaffe
 
        static  List<Kaffe> kaffeListe = new List<Kaffe>();
 
-        // min klon
+        // min klon builde
         public void BestilKaffe(Kaffe kaffe)
         {
             kaffeListe.Add(kaffe);
